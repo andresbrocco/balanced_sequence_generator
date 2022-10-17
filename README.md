@@ -47,7 +47,6 @@ python3 balanced_sequence_generator.py 12 72 example
 - example/sequences_transition_matrix.csv
 - example/sequences_transition_matrix.png
 
-![Transition Probability Matrix](example/sequences_transition_matrix.png)
 
 ## Requirements
 - Python 3
